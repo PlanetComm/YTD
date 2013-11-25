@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>January</Month>
+    <ORDDATE>201301</ORDDATE>
+    <NET>2930227.227140</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>February</Month>
+    <ORDDATE>201302</ORDDATE>
+    <NET>2607348.030200</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>March</Month>
+    <ORDDATE>201303</ORDDATE>
+    <NET>788000.000000</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>April</Month>
+    <ORDDATE>201304</ORDDATE>
+    <NET>2355401.989000</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>May</Month>
+    <ORDDATE>201305</ORDDATE>
+    <NET>2612053.997100</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>June</Month>
+    <ORDDATE>201306</ORDDATE>
+    <NET>2948523.012979</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>July</Month>
+    <ORDDATE>201307</ORDDATE>
+    <NET>1286159.999502</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>August</Month>
+    <ORDDATE>201308</ORDDATE>
+    <NET>1027050.000000</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>September</Month>
+    <ORDDATE>201309</ORDDATE>
+    <NET>2445310.550000</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>14179000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>October</Month>
+    <ORDDATE>201310</ORDDATE>
+    <NET>1276800.049245</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <Forecast>14179000</Forecast>
+    <Month>November</Month>
+    <ORDDATE>201311</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+  </Table>
+  <Table>
+    <Forecast>14179000</Forecast>
+    <Month>December</Month>
+    <ORDDATE>201312</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Wannapha</SALEPERSON>
+  </Table>
+</NewDataSet>

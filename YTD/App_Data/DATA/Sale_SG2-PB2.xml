@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ForecastYTD>80000000.000000</ForecastYTD>
+    <Forecast>96000000.00</Forecast>
+    <IsHeadOfSector>1</IsHeadOfSector>
+    <NET>108892694.377912</NET>
+    <SALEPERSON>Head-SG2-Public Sector 2</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>30000000.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>42424830.829932</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>80000000.000000</ForecastYTD>
+    <Forecast>96000000.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>66467863.547980</NET>
+    <SALEPERSON>Prapas</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+</NewDataSet>

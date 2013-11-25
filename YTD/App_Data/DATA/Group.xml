@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <NET>79116301.840814</NET>
+    <ForecastYTD>105000000.000000</ForecastYTD>
+    <Forecast>126000000.00</Forecast>
+    <SG>SG1-ENT</SG>
+    <SGDESC>SG1-Enterprise</SGDESC>
+  </Table>
+  <Table>
+    <NET>156018887.223316</NET>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>129600000.00</Forecast>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <NET>108892694.377912</NET>
+    <ForecastYTD>80000000.000000</ForecastYTD>
+    <Forecast>96000000.00</Forecast>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <NET>91829868.893892</NET>
+    <ForecastYTD>120000000.000000</ForecastYTD>
+    <Forecast>144000000.00</Forecast>
+    <SG>SG2-PB3</SG>
+    <SGDESC>SG2-Public Sector 3</SGDESC>
+  </Table>
+  <Table>
+    <NET>62626909.855166</NET>
+    <ForecastYTD>141790000.000000</ForecastYTD>
+    <Forecast>170148000.00</Forecast>
+    <SG>SG3-SPV1</SG>
+    <SGDESC>SG3-Services Provider 1</SGDESC>
+  </Table>
+  <Table>
+    <NET>5040208.056912</NET>
+    <ForecastYTD>50000000.000000</ForecastYTD>
+    <Forecast>60000000.00</Forecast>
+    <SG>SG3-SPV2</SG>
+    <SGDESC>SG3-Services Provider 2</SGDESC>
+  </Table>
+  <Table>
+    <NET>60783372.111054</NET>
+    <ForecastYTD>116666666.666660</ForecastYTD>
+    <Forecast>140000000.00</Forecast>
+    <SG>SG4-BCT</SG>
+    <SGDESC>SG4-Broadcasting</SGDESC>
+  </Table>
+  <Table>
+    <NET>16938259.120442</NET>
+    <ForecastYTD>109200000.000000</ForecastYTD>
+    <Forecast>131040000.00</Forecast>
+    <SG>SG5-INT</SG>
+    <SGDESC>SG5-International</SGDESC>
+  </Table>
+</NewDataSet>

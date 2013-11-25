@@ -1,0 +1,17 @@
+D:\Project\Web\YTD\bin\YTD.dll
+D:\Project\Web\YTD\bin\YTD.pdb
+D:\Project\Web\YTD\bin\Telerik.Web.UI.dll
+D:\Project\Web\YTD\bin\Telerik.Web.UI.Skins.dll
+D:\Project\Web\YTD\bin\Telerik.Web.UI.xml
+D:\Project\Web\YTD\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Web\YTD\obj\Debug\YTD.dll
+D:\Project\Web\YTD\obj\Debug\YTD.pdb
+D:\ComPaq\Project\Web\YTD\bin\YTD.dll
+D:\ComPaq\Project\Web\YTD\bin\YTD.pdb
+D:\ComPaq\Project\Web\YTD\obj\Debug\YTD.dll
+D:\ComPaq\Project\Web\YTD\obj\Debug\YTD.pdb
+D:\ComPaq\Project\Web\YTD\bin\Telerik.Web.UI.dll
+D:\ComPaq\Project\Web\YTD\bin\Telerik.Web.UI.Skins.dll
+D:\ComPaq\Project\Web\YTD\bin\Telerik.Web.UI.xml
+D:\ComPaq\Project\Web\YTD\bin\EncryptionClassLibrary.dll
+D:\ComPaq\Project\Web\YTD\obj\Debug\YTD.csprojResolveAssemblyReference.cache

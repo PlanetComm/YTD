@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>2500000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>January</Month>
+    <ORDDATE>201301</ORDDATE>
+    <NET>405999.985110</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <Forecast>2500000</Forecast>
+    <Month>February</Month>
+    <ORDDATE>201302</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+  </Table>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>2500000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>March</Month>
+    <ORDDATE>201303</ORDDATE>
+    <NET>5502000.000000</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <Forecast>2500000</Forecast>
+    <Month>April</Month>
+    <ORDDATE>201304</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+  </Table>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>2500000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>May</Month>
+    <ORDDATE>201305</ORDDATE>
+    <NET>872630.840000</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>2500000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>June</Month>
+    <ORDDATE>201306</ORDDATE>
+    <NET>13814800.000000</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>2500000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>July</Month>
+    <ORDDATE>201307</ORDDATE>
+    <NET>5692500.000000</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>2500000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>August</Month>
+    <ORDDATE>201308</ORDDATE>
+    <NET>859900.000000</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>25000000.000000</ForecastYTD>
+    <Forecast>2500000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>September</Month>
+    <ORDDATE>201309</ORDDATE>
+    <NET>15277000.004822</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+    <SG>SG2-PB2</SG>
+    <SGDESC>SG2-Public Sector 2</SGDESC>
+  </Table>
+  <Table>
+    <Forecast>2500000</Forecast>
+    <Month>October</Month>
+    <ORDDATE>201310</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+  </Table>
+  <Table>
+    <Forecast>2500000</Forecast>
+    <Month>November</Month>
+    <ORDDATE>201311</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+  </Table>
+  <Table>
+    <Forecast>2500000</Forecast>
+    <Month>December</Month>
+    <ORDDATE>201312</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Phattarachai</SALEPERSON>
+  </Table>
+</NewDataSet>

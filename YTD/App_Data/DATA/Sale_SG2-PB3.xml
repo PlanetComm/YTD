@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ForecastYTD>120000000.000000</ForecastYTD>
+    <Forecast>144000000.00</Forecast>
+    <IsHeadOfSector>1</IsHeadOfSector>
+    <NET>91829868.893892</NET>
+    <SALEPERSON>Head-SG2-Public Sector 3</SALEPERSON>
+    <SG>SG2-PB3</SG>
+    <SGDESC>SG2-Public Sector 3</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>10.000000</ForecastYTD>
+    <Forecast>12.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>0.000000</NET>
+    <SALEPERSON>Satit</SALEPERSON>
+    <SG>SG2-PB3</SG>
+    <SGDESC>SG2-Public Sector 3</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>37541666.666660</ForecastYTD>
+    <Forecast>45050000.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>18613918.861152</NET>
+    <SALEPERSON>Sungsan</SALEPERSON>
+    <SG>SG2-PB3</SG>
+    <SGDESC>SG2-Public Sector 3</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>37916666.666660</ForecastYTD>
+    <Forecast>45500000.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>13215950.032740</NET>
+    <SALEPERSON>Supachai</SALEPERSON>
+    <SG>SG2-PB3</SG>
+    <SGDESC>SG2-Public Sector 3</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>120000000.000000</ForecastYTD>
+    <Forecast>144000000.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>60000000.000000</NET>
+    <SALEPERSON>Monsawat</SALEPERSON>
+    <SG>SG2-PB3</SG>
+    <SGDESC>SG2-Public Sector 3</SGDESC>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Forecast>10800000</Forecast>
+    <Month>January</Month>
+    <ORDDATE>201301</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+  </Table>
+  <Table>
+    <Forecast>10800000</Forecast>
+    <Month>February</Month>
+    <ORDDATE>201302</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+  </Table>
+  <Table>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>10800000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>March</Month>
+    <ORDDATE>201303</ORDDATE>
+    <NET>1642200.000000</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>10800000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>April</Month>
+    <ORDDATE>201304</ORDDATE>
+    <NET>5561350.000000</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>10800000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>May</Month>
+    <ORDDATE>201305</ORDDATE>
+    <NET>22905000.000000</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>10800000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>June</Month>
+    <ORDDATE>201306</ORDDATE>
+    <NET>3150000.000000</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>10800000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>July</Month>
+    <ORDDATE>201307</ORDDATE>
+    <NET>499760.000000</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>10800000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>August</Month>
+    <ORDDATE>201308</ORDDATE>
+    <NET>22500.000000</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <Forecast>10800000</Forecast>
+    <Month>September</Month>
+    <ORDDATE>201309</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+  </Table>
+  <Table>
+    <ForecastYTD>108000000.000000</ForecastYTD>
+    <Forecast>10800000.000000</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <Month>October</Month>
+    <ORDDATE>201310</ORDDATE>
+    <NET>51024000.000000</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+    <SG>SG2-PB1</SG>
+    <SGDESC>SG2-Public Sector 1</SGDESC>
+  </Table>
+  <Table>
+    <Forecast>10800000</Forecast>
+    <Month>November</Month>
+    <ORDDATE>201311</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+  </Table>
+  <Table>
+    <Forecast>10800000</Forecast>
+    <Month>December</Month>
+    <ORDDATE>201312</ORDDATE>
+    <NET>0</NET>
+    <SALEPERSON>Somsak</SALEPERSON>
+  </Table>
+</NewDataSet>

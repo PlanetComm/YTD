@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ForecastYTD>109200000.000000</ForecastYTD>
+    <Forecast>131040000.00</Forecast>
+    <IsHeadOfSector>1</IsHeadOfSector>
+    <NET>16938259.120442</NET>
+    <SALEPERSON>Head-SG5-International</SALEPERSON>
+    <SG>SG5-INT</SG>
+    <SGDESC>SG5-International</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>109200000.000000</ForecastYTD>
+    <Forecast>131040000.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>11203431.129063</NET>
+    <SALEPERSON>Niphon</SALEPERSON>
+    <SG>SG5-INT</SG>
+    <SGDESC>SG5-International</SGDESC>
+  </Table>
+  <Table>
+    <ForecastYTD>109200000.000000</ForecastYTD>
+    <Forecast>131040000.00</Forecast>
+    <IsHeadOfSector>0</IsHeadOfSector>
+    <NET>5734827.991379</NET>
+    <SALEPERSON>Titima</SALEPERSON>
+    <SG>SG5-INT</SG>
+    <SGDESC>SG5-International</SGDESC>
+  </Table>
+</NewDataSet>
